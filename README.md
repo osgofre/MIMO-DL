@@ -2,8 +2,6 @@
 Detección MIMO con Deep Learning
 
 ******************************************************************************
-DETECCIÓN MIMO CON DEEP LEARNING
-******************************************************************************
 Puede descargar y ejecutar localmente los archivos en un entorno de python como anaconda,
 aunque se aconseja la ejecución de los notebooks en google colab. 
 
