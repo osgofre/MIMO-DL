@@ -10,7 +10,7 @@ El proyecto se divide en 3 partes:
 2. Simulación de Sistema MIMO en PyTorch
 3. Diseño y simulación de detección MIMO basada en aprendizaje profundo
 
-Puede descargar y ejecutar localmente los archivos en un entorno de python como anaconda, aunque se aconseja la ejecución de los notebooks en google colab, aprovechando la acelaración por hardware y cargando los archivos _labcomgid.py_, _functions.py_ y _network.py_.   
+Puede descargar y ejecutar localmente los archivos en un entorno de python como anaconda, aunque se aconseja la ejecución de los notebooks en Google Colab, aprovechando la acelaración por hardware y cargando los archivos _labcomgid.py_, _functions.py_ y _network.py_.   
 
 Se incluye un environment.
 
